@@ -1,34 +1,40 @@
-## Tat Srisan
+## Tat Srisan, PhD
 
-PhD candidate in Transportation Engineering at UCLA, working on urban mobility,
-curbside management, and travel behavior. I build data pipelines and statistical
-models on messy, real-world transportation data — sensor feeds, parking
-transactions, and trip records — and care most about getting causal claims right
-rather than squeezing out another point of accuracy.
+Transportation researcher working on travel demand modeling and equity. I
+earned my PhD in Civil Engineering (Transportation) at UCLA in 2026, advised by
+Dr. Tierra Bills.
 
-**Methods:** causal inference and quasi-experimental design, applied machine
-learning, spatial and longitudinal analysis, A/B testing
-**Tools:** Python (pandas, scikit-learn, statsmodels), SQL, R, Git, QGIS
+My research challenges a core assumption in auto ownership modeling — that
+households freely choose how many vehicles to own. Using choice set modeling on
+Los Angeles County data, I show how race, space, and credit access constrain
+those choices, and why models that miss those constraints forecast inequity
+forward as if it were preference.
+
+**Methods:** discrete choice and choice set modeling, travel demand modeling,
+Bayesian inference, uncertainty quantification, spatial analysis, applied ML
+**Tools:** Python (pandas, NumPy, scikit-learn, Biogeme), R, SQL, TransCAD,
+CUBE, ArcGIS/QGIS, Tableau, Spark
 
 ---
 
-### Selected work
+### Selected publications
+
+**Constrained choices: Rethinking the assumption of choice in auto ownership
+modeling to advance equity** (2025)
+*Transportation Research Interdisciplinary Perspectives*, 34:101769
+
+**A case for race and space in auto ownership modeling: A Los Angeles County
+study** (2024)
+*Transport Policy*, 154, pp. 182–197
+
+### Code
 
 **[westwood-parking-analysis](https://github.com/tatsrisan/westwood-parking-analysis)**
-Longitudinal analysis of curbside parking overstay in Westwood, Los Angeles —
-quantifying how long drivers exceed posted limits and what that implies for
-enforcement and pricing policy.
+— longitudinal curbside parking overstay analysis in Westwood, Los Angeles.
 
-**[insurance_premium](https://github.com/tatsrisan/insurance_premium)**
-End-to-end regression modeling of insurance premiums, from feature engineering
-through model selection and evaluation.
+**[insurance_premium](https://github.com/tatsrisan/insurance_premium)** —
+end-to-end regression modeling, from feature engineering through evaluation.
 
 ---
 
-### Currently
-
-Extending my dissertation work on curbside demand into pricing policy
-evaluation, and building out end-to-end ML projects that run from raw data to a
-deployed, reproducible pipeline.
-
-📍 Los Angeles, CA · 🔗 [tatsrisan.github.io](https://tatsrisan.github.io)
+📍 Los Angeles, CA · ✉️ tatsrisan@ucla.edu
